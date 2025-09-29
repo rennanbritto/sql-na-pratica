@@ -1,0 +1,19 @@
+__________________________________________________________________________________________________________________
+# Dicionários de operadores
+
+SELECT *  FROM          -> pega todas as colunas
+SELECT COUNT(*)   FROM  -> faz a contagem de linhas retornadas 
+WHERE                   -> filtra um critério, use depois de 'FROM' e antes do GROUP BY, exemplo em: ex_1.ep_1
+GROUP BY                -> agrega os dados baseado em um mesmo critério
+HAVING                  -> filtra um critério, usar após GROUP BY
+ORDER BY(...)           -> ordena os resultados crescentemente a partir de um parâmetro, usar após HAVING
+ORDER BY(...) DESC      -> ordena os resultados DEcrescentemente a partir de um parâmetro, usar após HAVING
+AS                      -> nomear algo
+AND                     -> algo como && em C
+MIN(...)                -> retorna o valor mínimo
+MAX(...)                -> retorna o valor máximo
+AVG(...)                -> retorna a média dos valores
+LIMIT X                 -> retorna os X primeiros itens, como o HEAD em python
+
+___________________________________________________________________________________________________________________
+# operações: apenas use os + - * / 
