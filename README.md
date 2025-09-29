@@ -14,5 +14,5 @@ Aqui está todo o conteúdo que estou desenvolvendo durante a Trilha SQL, curso 
 SQL (Structured Query Language)
 
 🙌 Créditos:
-Curso: Trilha SQL
+Curso: Trilha SQL | 
 Canal: Teo Me Why (youtube)
