@@ -1,1 +1,0 @@
-SELECT * FROM clientes WHERE QtdPontos = 0
