@@ -24,4 +24,4 @@ FK (FOREIGN KEY)        -> uma
 CAST (...) as FLOAT     -> usar em float em vez de inteiro
 ___________________________________________________________________________________________________________________
 # operações: apenas use os + - * / 
-ctrl + shoft + q
+ctrl + shift + q
